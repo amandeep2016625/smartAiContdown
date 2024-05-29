@@ -1,0 +1,38 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #B0C4DE;
+}
+.countdowndiv {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  border-radius: 15px 50px;
+  width: 50%;
+  margin: auto;
+  background-color: #B0C4DE;
+}
+
+.bttn {
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+  margin: auto;
+  /* border:1px solid black; */
+  
+}
+button {
+  border-radius: 15px 50px;
+  padding:5%;
+  color:white
+}
+input {
+  margin: 2%;
+  border-radius: 15px 50px;
+}
+.start{
+  background-color:#355E3B
+}
+.stop{
+  background-color:#F40009
+}
